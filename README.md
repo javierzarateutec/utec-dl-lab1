@@ -1,0 +1,2 @@
+## ETSformer
+- Ejecutar el .ipynb
